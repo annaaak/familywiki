@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mainfamilytree.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4011"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4009" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3947"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3945"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3355"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3353" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3303"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3301"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2977"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2975" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2937"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2935"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1567"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1565" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1286"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4011-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4009-9" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="838.6527"
+     inkscape:cy="209.61201"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1858"
+     inkscape:window-height="999"
+     inkscape:window-x="29"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.482143"
+       y="109.7128"
+       id="text919"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="29.482143"
+         y="113.45831"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot959"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:serif;font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:serif;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion961"><rect
+           id="rect963"
+           width="370"
+           height="125.71429"
+           x="335"
+           y="85.843658" /></flowRegion><flowPara
+         id="flowPara965" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="103.90333"
+       y="203.96614"
+       id="text1809-9"><tspan
+         sodipodi:role="line"
+         id="tspan1807-2"
+         x="103.90333"
+         y="207.71165"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.123999"
+       y="226.06247"
+       id="text1072-4"><tspan
+         sodipodi:role="line"
+         id="tspan1070-6"
+         x="21.123999"
+         y="229.80798"
+         style="stroke-width:0.26458332" /></text>
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="102.89252" />
+    <rect
+       style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-9"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="114.40954" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-4"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="108.65102" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-3"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="125.92654" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-5"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="120.16804" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-1"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="137.44356" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-7"
+       width="60.755398"
+       height="5.5853543"
+       x="23.965136"
+       y="131.68504" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.229012"
+       y="106.60245"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="28.229012"
+         y="106.60245"
+         style="font-size:3.52777767px;stroke-width:0.26458332">Lars Magnus, Sanna Kristina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="39.891003"
+       y="112.61159"
+       id="text937"><tspan
+         sodipodi:role="line"
+         id="tspan935"
+         x="39.891003"
+         y="112.61159"
+         style="stroke-width:0.26458332">Svea Josefina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.966785"
+       y="118.37011"
+       id="text941"><tspan
+         sodipodi:role="line"
+         id="tspan939"
+         x="42.966785"
+         y="118.37011"
+         style="stroke-width:0.26458332">Karl Johan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.003994"
+       y="124.53892"
+       id="text945"><tspan
+         sodipodi:role="line"
+         id="tspan943"
+         x="43.003994"
+         y="124.53892"
+         style="stroke-width:0.26458332">Peter Emil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.404545"
+       y="129.85713"
+       id="text949"><tspan
+         sodipodi:role="line"
+         id="tspan947"
+         x="42.404545"
+         y="129.85713"
+         style="stroke-width:0.26458332">Nils Birger</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.780174"
+       y="136.05592"
+       id="text953"><tspan
+         sodipodi:role="line"
+         id="tspan951"
+         x="43.780174"
+         y="136.05592"
+         style="stroke-width:0.26458332">Ida Maria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="34.752296"
+       y="141.37416"
+       id="text957"><tspan
+         sodipodi:role="line"
+         id="tspan955"
+         x="34.752296"
+         y="141.37416"
+         style="stroke-width:0.26458332">Augusta Charlotta</tspan></text>
+    <g
+       id="g2036"
+       transform="translate(18.349138,25.542593)">
+      <rect
+         y="136.50919"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-96"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="148.0262"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-9-0"
+         style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="142.2677"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-4-6"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="159.54321"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-3-4"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="153.78471"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-5-9"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="171.06023"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-1-9"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="165.30173"
+         x="5.6159949"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-7-0"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <text
+         id="text1064"
+         y="140.2751"
+         x="19.805193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.52777767px;stroke-width:0.26458332"
+           y="140.2751"
+           x="19.805193"
+           id="tspan1062"
+           sodipodi:role="line">Karl Johan, Sanna</tspan></text>
+      <text
+         id="text1068"
+         y="146.13318"
+         x="21.966646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="146.13318"
+           x="21.966646"
+           id="tspan1066"
+           sodipodi:role="line">Peter August</tspan></text>
+      <text
+         id="text1072"
+         y="152.39708"
+         x="19.698051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="152.39708"
+           x="19.698051"
+           id="tspan1070"
+           sodipodi:role="line">Anna Charlotta</tspan></text>
+      <text
+         id="text1076"
+         y="157.74529"
+         x="20.760519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="157.74529"
+           x="20.760519"
+           id="tspan1074"
+           sodipodi:role="line">Josua Leander</tspan></text>
+      <text
+         id="text1080"
+         y="163.91409"
+         x="24.484322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="163.91409"
+           x="24.484322"
+           id="tspan1078"
+           sodipodi:role="line">Ida Linnea</tspan></text>
+      <text
+         id="text1084"
+         y="169.67261"
+         x="19.539921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="169.67261"
+           x="19.539921"
+           id="tspan1082"
+           sodipodi:role="line">Potentia Emilia</tspan></text>
+      <text
+         id="text1088"
+         y="175.0208"
+         x="22.835844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="175.0208"
+           x="22.835844"
+           id="tspan1086"
+           sodipodi:role="line">Johan Alfred</tspan></text>
+      <rect
+         y="176.81874"
+         x="5.615993"
+         height="5.5853543"
+         width="60.755405"
+         id="rect815-1-9-2"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <text
+         id="text1107"
+         y="180.74933"
+         x="17.733313"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="180.74933"
+           x="17.733313"
+           id="tspan1105"
+           sodipodi:role="line">Bernhard Ludvig</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1567)"
+       d="m 84.628988,117.20701 24.735282,23.6121"
+       id="path1273"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 84.794585,175.97814 24.569685,-32.5132"
+       id="path1275"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.379562"
+       y="159.96635"
+       id="text2171"><tspan
+         sodipodi:role="line"
+         id="tspan2169"
+         x="42.379562"
+         y="159.96635"
+         style="stroke-width:0.26458332">Steningsbo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.343918"
+       y="101.15848"
+       id="text2175"><tspan
+         sodipodi:role="line"
+         id="tspan2173"
+         x="45.343918"
+         y="101.15848"
+         style="stroke-width:0.26458332">Eskilsbo</tspan></text>
+    <g
+       id="g2282"
+       transform="translate(19.021774,3.2984821)">
+      <g
+         id="g2236">
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-96-5"
+           width="60.755402"
+           height="5.5853543"
+           x="93.301849"
+           y="136.18567" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-9-0-0"
+           width="60.755402"
+           height="5.5853543"
+           x="93.301849"
+           y="141.94418" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-3-4-0"
+           width="60.755402"
+           height="5.5853543"
+           x="93.301849"
+           y="153.4612" />
+        <rect
+           style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-5-9-4"
+           width="60.755402"
+           height="5.5853543"
+           x="93.301849"
+           y="147.70268" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="99.436432"
+           y="139.95158"
+           id="text1271"><tspan
+             sodipodi:role="line"
+             id="tspan1269"
+             x="99.436432"
+             y="139.95158"
+             style="font-size:3.52777767px;stroke-width:0.26458332">Karl Johan, Anna Charlotta</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="104.71329"
+           y="146.31506"
+           id="text1793"><tspan
+             sodipodi:role="line"
+             id="tspan1791"
+             x="104.71329"
+             y="146.31506"
+             style="stroke-width:0.26458332">Astrid Sanna Edit</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="112.24876"
+           y="152.08699"
+           id="text1805"><tspan
+             sodipodi:role="line"
+             id="tspan1803"
+             x="112.24876"
+             y="152.08699"
+             style="stroke-width:0.26458332">Karl Gösta</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="101.33883"
+           y="157.39178"
+           id="text1809"><tspan
+             sodipodi:role="line"
+             id="tspan1807"
+             x="101.33883"
+             y="157.39178"
+             style="stroke-width:0.26458332">Inga Alice Hildegard</tspan></text>
+      </g>
+      <text
+         id="text2179"
+         y="134.10027"
+         x="113.5303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="134.10027"
+           x="113.5303"
+           id="tspan2177"
+           sodipodi:role="line">Kragared</tspan></text>
+    </g>
+    <g
+       id="g2643"
+       transform="translate(38.239083,28.192649)">
+      <text
+         id="text2183"
+         y="159.08893"
+         x="194.30495"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="159.08893"
+           x="194.30495"
+           id="tspan2181"
+           sodipodi:role="line">Kragared</tspan></text>
+      <g
+         transform="translate(4.1268188)"
+         id="g2632">
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-96-5-1-7"
+           width="60.755405"
+           height="5.5853543"
+           x="169.94968"
+           y="161.8268" />
+        <rect
+           style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-9-0-0-7-3"
+           width="60.755405"
+           height="5.5853543"
+           x="169.94968"
+           y="167.58531" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="185.34897"
+           y="165.73051"
+           id="text1271-1-4"><tspan
+             sodipodi:role="line"
+             id="tspan1269-6-7"
+             x="185.34897"
+             y="165.73051"
+             style="font-size:3.52777767px;stroke-width:0.26458332">Karl Gösta, Elsie</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="188.11003"
+           y="171.45079"
+           id="text1793-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan1791-7-7"
+             x="188.11003"
+             y="171.45079"
+             style="stroke-width:0.26458332">Bo Magnus </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3543"
+       transform="translate(-4.2615621,8.6092563)">
+      <g
+         transform="translate(31.453362)"
+         id="g2923">
+        <g
+           id="g2265"
+           transform="translate(-8.4666671,7.4083335)">
+          <g
+             id="g2251">
+            <rect
+               style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+               id="rect815-96-5-1"
+               width="60.755405"
+               height="5.5853543"
+               x="93.598488"
+               y="214.51003" />
+            <rect
+               style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+               id="rect815-9-0-0-7"
+               width="60.755405"
+               height="5.5853543"
+               x="93.598488"
+               y="220.26854" />
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+               id="rect815-5-9-4-4"
+               width="60.755405"
+               height="5.5853543"
+               x="93.598488"
+               y="226.02704" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="102.09036"
+               y="218.27594"
+               id="text1271-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan1269-6"
+                 x="102.09036"
+                 y="218.27594"
+                 style="font-size:3.52777767px;stroke-width:0.26458332">Johan Emil, Elin Kristina</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="118.72276"
+               y="224.63942"
+               id="text1793-5"><tspan
+                 sodipodi:role="line"
+                 id="tspan1791-7"
+                 x="118.72276"
+                 y="224.63942"
+                 style="stroke-width:0.26458332">Elsie</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="111.3196"
+               y="230.41135"
+               id="text1805-8"><tspan
+                 sodipodi:role="line"
+                 id="tspan1803-5"
+                 x="111.3196"
+                 y="230.41135"
+                 style="stroke-width:0.26458332">Sven Göran</tspan></text>
+          </g>
+          <text
+             id="text2240"
+             y="213.30519"
+             x="118.50779"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="213.30519"
+               x="118.50779"
+               id="tspan2238"
+               sodipodi:role="line">Tömt</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2791"
+       transform="translate(17.746465,8.6092563)">
+      <g
+         transform="translate(-0.82327448,3.4091398)"
+         id="g2780">
+        <rect
+           style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-96-6"
+           width="60.755402"
+           height="5.5853543"
+           x="7.0419421"
+           y="210.17458" />
+        <rect
+           style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+           id="rect815-9-0-3"
+           width="60.755402"
+           height="5.5853543"
+           x="7.0419421"
+           y="215.93309" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="25.385925"
+           y="214.06709"
+           id="text1064-5"><tspan
+             sodipodi:role="line"
+             id="tspan1062-0"
+             x="25.385925"
+             y="214.06709"
+             style="font-size:3.52777767px;stroke-width:0.26458332">Erik, Kristina</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="25.96608"
+           y="219.89366"
+           id="text1068-0"><tspan
+             sodipodi:role="line"
+             id="tspan1066-3"
+             x="25.96608"
+             y="219.89366"
+             style="stroke-width:0.26458332">Johan Emil</tspan></text>
+      </g>
+      <text
+         id="text2171-3"
+         y="211.84972"
+         x="31.127968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="211.84972"
+           x="31.127968"
+           id="tspan2169-7"
+           sodipodi:role="line">Tömt</tspan></text>
+    </g>
+    <g
+       id="g3527"
+       transform="translate(-4.2615621,8.6092563)">
+      <rect
+         y="242.98412"
+         x="28.190578"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-96-2"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="254.50113"
+         x="28.190578"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-9-0-1"
+         style="opacity:1;fill:#d2faf3;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="248.74263"
+         x="28.190578"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-4-6-0"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="266.01816"
+         x="28.190578"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-3-4-5"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="260.25964"
+         x="28.22669"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-5-9-8"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <rect
+         y="271.77667"
+         x="28.190578"
+         height="5.5853543"
+         width="60.755402"
+         id="rect815-7-0-5"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none" />
+      <text
+         id="text1064-0"
+         y="246.75003"
+         x="42.379791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.52777767px;stroke-width:0.26458332"
+           y="246.75003"
+           x="42.379791"
+           id="tspan1062-7"
+           sodipodi:role="line">Lars Gustaf, Elisabet</tspan></text>
+      <text
+         id="text1068-3"
+         y="252.60811"
+         x="46.370594"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="252.60811"
+           x="46.370594"
+           id="tspan1066-8"
+           sodipodi:role="line">Karl Fritiof</tspan></text>
+      <text
+         id="text1072-2"
+         y="258.87201"
+         x="45.053879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="258.87201"
+           x="45.053879"
+           id="tspan1070-3"
+           sodipodi:role="line">Elin Kristina</tspan></text>
+      <text
+         id="text1076-0"
+         y="264.22021"
+         x="54.037315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="264.22021"
+           x="54.037315"
+           id="tspan1074-7"
+           sodipodi:role="line">Edit</tspan></text>
+      <text
+         id="text1080-7"
+         y="270.38904"
+         x="45.384605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="270.38904"
+           x="45.384605"
+           id="tspan1078-7"
+           sodipodi:role="line">Anna Naemi</tspan></text>
+      <text
+         id="text1084-6"
+         y="276.14755"
+         x="32.422073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="276.14755"
+           x="32.422073"
+           id="tspan1082-9"
+           sodipodi:role="line">Erik Holger (fosterbarn)</tspan></text>
+      <text
+         id="text2171-9"
+         y="240.89882"
+         x="46.461544"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="240.89882"
+           x="46.461544"
+           id="tspan2169-8"
+           sodipodi:role="line">Röbjörkeby</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2977)"
+       d="m 84.775451,230.77379 24.588819,0.99992"
+       id="path2925"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2937)"
+       d="M 84.684426,268.69575 109.36427,235.11458"
+       id="path2927"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3303)"
+       d="m 172.57353,153.80017 37.25186,37.26798"
+       id="path3291"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3355)"
+       d="m 172.97443,239.19279 36.85096,-44.89591"
+       id="path3293"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.499128"
+       y="121.24109"
+       id="text3722"><tspan
+         sodipodi:role="line"
+         id="tspan3720"
+         x="11.499128"
+         y="121.24109"
+         style="stroke-width:0.26458332">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.497068"
+       y="180.92815"
+       id="text3726"><tspan
+         sodipodi:role="line"
+         id="tspan3724"
+         x="11.497068"
+         y="180.92815"
+         style="stroke-width:0.26458332">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.612822"
+       y="222.72298"
+       id="text3730"><tspan
+         sodipodi:role="line"
+         id="tspan3728"
+         x="11.612822"
+         y="222.72298"
+         style="stroke-width:0.26458332">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.408186"
+       y="273.94348"
+       id="text3734"><tspan
+         sodipodi:role="line"
+         id="tspan3732"
+         x="11.408186"
+         y="273.94348"
+         style="stroke-width:0.26458332">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.99989"
+       y="132.05112"
+       id="text3738"><tspan
+         sodipodi:role="line"
+         id="tspan3736"
+         x="115.99989"
+         y="132.05112"
+         style="stroke-width:0.26458332">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.32384"
+       y="224.35297"
+       id="text3742"><tspan
+         sodipodi:role="line"
+         id="tspan3740"
+         x="117.32384"
+         y="224.35297"
+         style="stroke-width:0.26458332">f</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4011)"
+       d="m 172.99019,159.82391 27.92967,-10.28987"
+       id="path3922"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3947)"
+       d="M 173.12383,148.19769 201.0535,137.90782"
+       id="path3922-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="204.86311"
+       y="138.81697"
+       id="text4075"><tspan
+         sodipodi:role="line"
+         id="tspan4073"
+         x="204.86311"
+         y="138.81697"
+         style="stroke-width:0.26458332">Klas-Håkan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="204.29613"
+       y="149.77827"
+       id="text4079"><tspan
+         sodipodi:role="line"
+         id="tspan4077"
+         x="204.29613"
+         y="149.77827"
+         style="stroke-width:0.26458332">Marlene, Peter</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.17315347;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:none;marker-end:none"
+       id="rect815-1-7"
+       width="60.755402"
+       height="5.5853543"
+       x="23.965134"
+       y="143.02892" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.297882"
+       y="147.3998"
+       id="text957-4"><tspan
+         sodipodi:role="line"
+         id="tspan955-3"
+         x="37.297882"
+         y="147.3998"
+         style="stroke-width:0.26458332">Edvin Bernhard</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4011-6)"
+       d="m 173.22363,245.04521 27.92967,10.28988"
+       id="path3922-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="205.63863"
+       y="259.31281"
+       id="text4079-2"><tspan
+         sodipodi:role="line"
+         id="tspan4077-2"
+         x="205.63863"
+         y="259.31281"
+         style="stroke-width:0.26458332">Örjan</tspan></text>
+  </g>
+</svg>
