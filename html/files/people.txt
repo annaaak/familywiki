@@ -1,0 +1,37 @@
+id,full name,birth (YYYY-MM-DD),death (YYYY-MM-DD)
+aemk1993,Anna Elin Margareta Källsgård,1993-07-27,not yet
+bmk1967,Bo Magnus Källsgård,1967-04-21,not yet
+jgp1973,Jenny Gabriella Persson,1973-03-02,not yet
+kgl1927,Karl Gösta Larsson,1927-04-01,2017-04-01
+asel1922,Astrid Sanna Edit Lindberg,1922-11-22,2017-01-03
+iaha1929,Inga Alice Hildegard Abrahamsson,1929-05-22,2005-01-01
+el1925,Elsie Larsson,1925-10-04,2019-06-21
+sge1929,Sven Göran Eriksson,1929-09-18,not yet
+sjl1884,Svea Josefina Larsson,1884-01-03,-
+kjl1886,Karl Johan Larsson,1886-07-31,1958-06-25
+pel1889,Peter Emil Larsson,1889-02-16,-
+nbl1891,Nils Birger Larsson,1891-11-04,-
+iml1894,Ida Maria Larsson,1894-03-22,-
+acl1897,Augusta Charlotta Larsson,1897-06-12,-
+ebl1901,Edvin Bernhard Larsson,1901-12-09,-
+lmk1847,Lars Magnus Karlsson,1847-06-11,-
+skk1858,Sanna Kristina Karlsson,1858-01-03,-
+pak1882,Peter August Karlsson,1882-12-16,-
+acl1896,Anna Charlotta Larsson,1896-01-11,1992-11-30
+jlk1887,Josua Leander Karlsson,1887-05-18,-
+ilk1891,Ida Linnea Karlsson,1891-06-09,-
+pek1899,Potentia Emilia Karlsson,1899-01-21,-
+jak1903,Johan Alfred Karlsson,1903-03-13,-
+blk1907,Bernhard Ludvig Karlsson,1907-09-13,-
+kjp1854,Karl Johan Persson,1854-02-05,-
+sp1861,Sanna Persson,1861-03-10,-
+jee1900,Johan Emil Eriksson,1900-06-24,1979-01-01
+ee1862,Erik Eriksson,1862-09-11,-
+ke1865,Kristina Eriksson,1865-09-26,-
+kfl1897,Karl Fritiof Larsson,1897-09-26,-
+el1908,Edit Larsson,1908-06-16,-
+anl1913,Anna Naemi Larsson,1913-05-17,-
+ehe1923,Erik Holger Eriksson,1923-08-01,-
+eke1905,Elin Kristina Eriksson,1905-06-25,1967-01-01
+lgj1872,Lars Gustav Jönsson,1872-06-28,-
+ej1872,Elisabet Jönsson,1872-01-06,-
